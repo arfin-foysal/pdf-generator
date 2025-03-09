@@ -122,5 +122,8 @@ Feel free to contribute! Fork the repository, make changes, and submit a pull re
 ---
 
 ## 📧 Contact
-For questions, reach out at **your-email@example.com**
+For questions, reach out at **af.arfinfoysal.com**
+
+
+## 🙌 Credits
 
