@@ -26,6 +26,7 @@ app.post("/api/generate-pdf", async (req, res) => {
     printBackground = "true",
   } = req.body;
 
+
   if (!url) {
     return res.status(400).json({ error: "URL is required" });
   }
