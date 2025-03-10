@@ -122,7 +122,9 @@ Feel free to contribute! Fork the repository, make changes, and submit a pull re
 ---
 
 ## 📧 Contact
-For questions, reach out at **af.arfinfoysal.com**
+Foysal Ahmmad **[af.arfinfoysal](https://github.com/af.arfinfoysal)**
+Software Engineer (PHP, Node.js, Go, Laravel, Express,js)
+For questions, reach out at **af.arfinfoysal@gmail.com**
 
 
 ## 🙌 Credits
